@@ -6,13 +6,13 @@
 /* this is an example of importing a font placed in the user-fonts folder */
 @font-face {
     font-family: "Scaffolding";
-    src: url("user-fonts/Scaffolding-Regular.woff2") format("woff2"),
-        url("user-fonts/Scaffolding-Regular.woff") format("woff");
+    src: url("user-fonts/Microgramma.woff2") format("woff2"),
+        url("user-fonts/Microgramma.woff") format("woff");
 }
 
 :root {
     /* color of the whole page */
-    --color-background: #ffff00;
+    --color-background: #8c00ff;
     /* color of text elements */
     --color-foreground: black;
 }
@@ -20,7 +20,7 @@
 /* these are settings for all text */
 /* replace "Scaffolding" with the name of the font you want to use */
 body {
-    font-family: 'Scaffolding', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Microgramma', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* this is the title text */
