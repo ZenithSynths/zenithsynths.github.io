@@ -1,11 +1,11 @@
 # this will show up on the tab for the site
-meta-title: "PT-DLC5"
+meta-title: "ZENITH"
 # this shows up below the title in a google search result
-meta-description: This is an example of the description
+meta-description: the highest point reached by a given celestial object
 # whether to show the title on the front page
 show-title: true
 # this shows up on the main page
-title: "\uE001PT-DLC5-6"
+title: "\uE001ZENITH"
 # this is a convenient shortcut to hide the intro text which can be changed in user-intro-text.md
 show-intro-text: false
 # whether to show the background image or not
@@ -34,20 +34,20 @@ vertical-links: false
 # adding the parameter new-tab and setting it to true will open the link in a new browser tab
 links:
 
-- title: Spotify
-  url: https://open.spotify.com/artist/6TFOalvhHRXh8JmQTVSoyY?si=by2Uv4_pRSGLL92wMk5K3g
+- title: Soundcloud
+  url: https://soundcloud.com/zenith_synths
   new-tab: true
 
 - title: Twitter
-  url: http://twitter.com/pedestriantac
+  url: http://twitter.com/zenithsynths
   new-tab: true
   
 - title: Instagram
-  url: http://instagram.com/pedestriantactics
+  url: http://instagram.com/zenith_synths
   new-tab: true
   
 - title: Email
-  url: mailto:hi@pedestriantactics.com
+  url: mailto:zenithsynths@gmail.com
 
-- title: Custom page
+- title: About Me
   url: user-custom-page
