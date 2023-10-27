@@ -1,11 +1,11 @@
 # this will show up on the tab for the site
-meta-title: "ZENITH"
+meta-title: "Zenith Synths"
 # this shows up below the title in a google search result
 meta-description: the highest point reached by a given celestial object
 # whether to show the title on the front page
 show-title: true
 # this shows up on the main page
-title: "\uE001ZENITH"
+title: "ZENITH"
 # this is a convenient shortcut to hide the intro text which can be changed in user-intro-text.md
 show-intro-text: false
 # whether to show the background image or not
